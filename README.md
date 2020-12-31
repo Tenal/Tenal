@@ -4,8 +4,8 @@
 ### Frontend Developer 
 
 I recently transitioned into the wonderful world of web development following a year of career exploration. While my road to web dev has been a winding one, I am beyond excited to finally be a frontend developer! I'm ready to build, break, repair, and update some exciting applications, so let's [get in touch](https://calendly.com/tenalbourchier)! 
-
-
+    
+    
 ### Tenal's Technical Toolkit
 
     🔨  HTML5   
@@ -19,8 +19,8 @@ I recently transitioned into the wonderful world of web development following a 
     💻  Responsive Design   
     📑  PSD Conversion   
     👯  Pair & Mob Programming   
-
-
+    
+    
 ### Tenal's Projects
 
     💻 I'm currently working on:   
