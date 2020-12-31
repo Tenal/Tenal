@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Tenal! (she/her)
+# Hi there 👋 I'm [Tenal](https://tenalbourchier.com/)! (she/her)
 
 
 ## Frontend Developer 
