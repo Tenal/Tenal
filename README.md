@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Tenal! (she/her)
 
 
-### Frontend Developer 
+## Frontend Developer 
 
 I recently transitioned into the wonderful world of web development following a year of career exploration. While my road to web dev has been a winding one, I am beyond excited to finally be a frontend developer! I'm ready to build, break, repair, and update some exciting applications, so let's [get in touch](https://calendly.com/tenalbourchier)! 
     
     
-### Tenal's Technical Toolkit
+## Tenal's Technical Toolkit
 
     🔨  HTML5   
     🎨  CSS3 & Sass   
@@ -21,7 +21,7 @@ I recently transitioned into the wonderful world of web development following a 
     👯  Pair & Mob Programming   
     
     
-### Tenal's Projects
+## Tenal's Projects
 
     💻 I'm currently working on:   
          • Updating my portfolio & old projects (it's a never ending cycle)
