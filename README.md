@@ -6,7 +6,7 @@
 I recently transitioned into the wonderful world of web development following a year of career exploration. While my road to web dev has been a winding one, I am beyond excited to finally be a frontend developer! I'm ready to build, break, repair, and update some exciting applications, so let's [get in touch](https://calendly.com/tenalbourchier)! 
     
 <p align="center">   
-   <img align="center" src="./tenal-in-belgium.jpg" alt="Tenal standing in an empty street in Antwerp, Belgium">
+   <img align="center" src="./tenal-in-antwerp.jpg" alt="Tenal standing in an empty street in Antwerp, Belgium">
 </p>
 
 ## Tenal's Technical Toolkit
@@ -26,14 +26,17 @@ I recently transitioned into the wonderful world of web development following a 
     
 ## Tenal's Projects
 
-    💻 I'm currently working on:   
+    💻 I'm currently working on: 
+        
          • Updating my portfolio & old projects (it's a never ending cycle)
          • My React.js skills (bring it on, hooks)      
    
-    📖 I'm currently learning:   
+    📖 I'm currently learning: 
+        
          • Vanilla JavaScript (I learned jQuery first)   
          • Computer Science fundamentals (thanks to Harvard's CS50x course)   
    
-    🌟 Next, I want to learn:   
+    🌟 Next, I want to learn:  
+        
          • Vue.js (the more JavaScript frameworks, the better)
          • Redux (once I'm more familiar with react hooks)   
