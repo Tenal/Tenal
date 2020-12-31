@@ -31,6 +31,6 @@ I recently transitioned into the wonderful world of web development following a 
          • Vanilla JavaScript (I learned jQuery first)   
          • Computer Science fundamentals (thanks to Harvard's CS50x course)   
    
-    🌟 Next, I'll be learning:   
+    🌟 Next, I want to learn:   
          • Vue.js (the more JavaScript frameworks, the better)
          • Redux (once I'm more familiar with react hooks)   
