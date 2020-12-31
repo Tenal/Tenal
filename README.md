@@ -5,8 +5,6 @@
 
 I recently transitioned into the wonderful world of web development following a year of career exploration. While my road to web dev has been a winding one, I am beyond excited to finally be a frontend developer! I'm ready to build, break, repair, and update some exciting applications, so let's [get in touch](https://calendly.com/tenalbourchier)! 
     
-!(https://i.ibb.co/WFzyrCQ/IMG-8039.jpg)
-    
     
 ## Tenal's Technical Toolkit
 
