@@ -24,13 +24,13 @@ I recently transitioned into the wonderful world of web development following a 
 ### Tenal's Projects
 
     💻 I'm currently working on:   
-         - My React skills (bring it on, hooks)   
-         - Updating my portfolio & old projects (it's a never ending cycle)   
+         • Updating my portfolio & old projects (it's a never ending cycle)
+         • My React.js skills (bring it on, hooks)      
    
     📖 I'm currently learning:   
-         - Vanilla JavaScript (I learned jQuery first)   
-         - Computer Science fundamentals (thanks to Harvard's CS50x course)   
+         • Vanilla JavaScript (I learned jQuery first)   
+         • Computer Science fundamentals (thanks to Harvard's CS50x course)   
    
     🌟 Next, I'll be learning:   
-         - Vue.js   
-         - Redux   
+         • Vue.js (the more JavaScript frameworks, the better)
+         • Redux (once I'm more familiar with react hooks)   
