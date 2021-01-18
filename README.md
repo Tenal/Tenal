@@ -3,7 +3,7 @@
 
 ## Frontend Developer 
 
-I recently transitioned into the wonderful world of web development following a year of career exploration. While my road to web dev has been a winding one, I am beyond excited to finally be a frontend developer! I'm ready to build, break, repair, and update some exciting applications, so let's [get in touch](https://calendly.com/tenalbourchier)! 
+I'm an inquisitive front-end developer with a background in marketing and law that allows me to excel at communicating, analytical reasoning, and creative problem-solving. I take pride in building and improving dynamic user interfaces through clean, well-documented, responsive, and accessible code. If you're excited by the prospect of working with me to build, break, repair, and improve some exciting applications, let's [get in touch](https://calendly.com/tenalbourchier)! 
     
 <p align="center">   
    <img align="center" src="./tenal-in-antwerp.jpg" alt="Tenal standing in an empty street in Antwerp, Belgium">
