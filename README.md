@@ -12,15 +12,16 @@ I'm an inquisitive front-end developer with a background in marketing and law th
 ## Tenal's Technical Toolkit
 
     🔨  HTML5   
-    🎨  CSS3 & Sass   
-    🔌  JavaScript (ES6+), jQuery, & React.js   
+    🎨  CSS3, Sass, MUI   
+    🔌  JavaScript (ES6+), TypeScript, C#
+    🖼️  React.js, jQuery, Node.js, Express, Recoil  
     ⚙️  REST APIs   
-    🔥   Firebase     
-    🔀  Git & Github   
-    🆚  VS Code & Terminal   
-    🚻  Web Accessibility   
-    💻  Responsive Design   
-    📑  PSD Conversion   
+    🔥  MongoDB, Firebase     
+    🔀  Git, Github, GitLab, SourceTree
+    🧪  Storybook, React Testing Library, Jest, TestCafe, Cypress   
+    🚻  WCAG, Responsive Design, PSD Conversion
+    💻  npm, Command Line, VS Code, JSDoc, SonarCloud
+    📑  Heap, Jira, Slab, Confluence, Figma, XD
     👯  Pair & Mob Programming   
     
     
@@ -28,15 +29,13 @@ I'm an inquisitive front-end developer with a background in marketing and law th
 
     💻 I'm currently working on: 
         
-         • Updating my portfolio & old projects (it's a never ending cycle)
-         • My React.js skills (bring it on, hooks)      
+         • Creating new portfolio projects that actually represent my current skillset     
    
     📖 I'm currently learning: 
         
-         • Vanilla JavaScript (I learned jQuery first)   
-         • Computer Science fundamentals (thanks to Harvard's CS50x course)   
+         • C# & ASP.NET 
    
     🌟 Next, I want to learn:  
         
-         • Vue.js (the more JavaScript frameworks, the better)
-         • Redux (once I'm more familiar with react hooks)   
+         • Vue.js
+         • Redux 
