@@ -1,41 +1,29 @@
 # Hi there 👋 I'm [Tenal](https://tenalbourchier.com/)! (she/her)
 
 
-## Frontend Developer 
+## Software Developer 
 
-I'm an inquisitive front-end developer with a background in marketing and law that allows me to excel at communicating, analytical reasoning, and creative problem-solving. I take pride in building and improving dynamic user interfaces through clean, well-documented, responsive, and accessible code. If you're excited by the prospect of working with me to build, break, repair, and improve some exciting applications, let's [get in touch](https://calendly.com/tenalbourchier)! 
-    
+I'm an inquisitive software developer with over 4 years of comprehensive experience in startups across the full development lifecycle - architecting, developing, testing, deploying, documenting, and maintaining complex applications. I'm proficient in the MERN stack and Agile methodologies, with a proven track record of refactoring legacy code, reducing technical debt, and implementing modern design strategies that enhance performance and quality. With a background in marketing and law, I'm adept at collaborating with cross-functional teams and effectively communicating complex concepts to both technical and non-technical stakeholders. I'm currently searching for my next software role, let's [get in touch](https://calendly.com/tenalbourchier)! 
+
 <p align="center">   
    <img align="center" src="./tenal-in-antwerp.jpg" alt="Tenal standing in an empty street in Antwerp, Belgium">
 </p>
 
-## Tenal's Technical Toolkit
+## Technical Toolkit
 
-    🔨  HTML5   
-    🎨  CSS3, Sass, MUI   
-    🔌  JavaScript (ES6+), TypeScript, C#
-    🖼️  React.js, jQuery, Node.js, Express, Recoil  
-    ⚙️  REST APIs   
-    🔥  MongoDB, Firebase     
-    🔀  Git, Github, GitLab, SourceTree
-    🧪  Storybook, React Testing Library, Jest, TestCafe, Cypress   
-    🚻  WCAG, Responsive Design, PSD Conversion
-    💻  npm, Command Line, VS Code, JSDoc, SonarCloud
-    📑  Heap, Jira, Slab, Confluence, Figma, XD
-    👯  Pair & Mob Programming   
-    
-    
-## Tenal's Projects
+    🔨  **Languages:** HTML | CSS | JavaScript (ES6+) | TypeScript | C# _(🔃 learning)_   
+    🖼️  **Frontend:** React | Next.js | React Context | Recoil.js | jQuery | Redux _(🔃 learning)_   
+    🎨  **Styling:** Sass | Tailwind CSS | Styled Components | MUI | shadcn/ui | Storybook
+    ⚙️  **Backend:** Node.js | Express | ASP.Net _(🔃 learning)_   
+    🔥  **Data:** MongoDB | Firebase | REST APIs
+    🔀  **Versioning:** Git | GitHub | GitLab | SourceTree
+    🧪  **Testing:** Jest | React Testing Library | TestCafe | Cypress   
+    💻  **Dev Tools:** npm | Vite | ESLint | Prettier | CI/CD Tools | WCAG
+    📑  **Collaboration:** Jira | Confluence | Slab | Asana | Slack | SonarCloud | JSDoc | Pendo | Heap | Figma
 
-    💻 I'm currently working on: 
-        
-         • Creating new portfolio projects that actually represent my current skillset     
-   
-    📖 I'm currently learning: 
-        
-         • C# & ASP.NET 
-   
-    🌟 Next, I want to learn:  
-        
-         • Vue.js
-         • Redux 
+    
+## Future Projects
+
+    💻 I'm currently working on: Creating a new portfolio + projects that represent my current skillset      
+    📖 I'm currently learning: C#, ASP.NET, & Redux
+    🌟 Next, I want to learn: Vue.js, GraphQL, PostgreSQL
