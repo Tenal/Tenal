@@ -15,28 +15,28 @@ I'm currently searching for my next software role, let's [get in touch](https://
 ## Tech Stack
 
 **Languages**
-   -  HTML | CSS | JavaScript (ES6+) | TypeScript | C# _(🔃 learning)_   
+-  HTML | CSS | JavaScript (ES6+) | TypeScript | C# _(🔃 learning)_   
 **Frontend**
-   - React | Next.js | React Context | Recoil.js | jQuery | Redux _(🔃 learning)_   
+- React | Next.js | React Context | Recoil.js | jQuery | Redux _(🔃 learning)_   
 **Styling**
-   - Sass | Tailwind CSS | Styled Components | MUI | shadcn/ui | Storybook
+- Sass | Tailwind CSS | Styled Components | MUI | shadcn/ui | Storybook
 **Backend**
-   - Node.js | Express | ASP.Net _(🔃 learning)_   
+- Node.js | Express | ASP.Net _(🔃 learning)_   
 **Data**
-   - MongoDB | Firebase | REST APIs
+- MongoDB | Firebase | REST APIs
 **Versioning**
-   - Git | GitHub | GitLab | SourceTree
+- Git | GitHub | GitLab | SourceTree
 **Testing**
-   - Jest | React Testing Library | TestCafe | Cypress   
+- Jest | React Testing Library | TestCafe | Cypress   
 **Collaboration**
-   - Agile | CI/CD Tools | SonarCloud | JSDoc | Jira | Confluence | Slab | Asana | Slack | Pendo | Heap | Figma
+- Agile | CI/CD Tools | SonarCloud | JSDoc | Jira | Confluence | Slab | Asana | Slack | Pendo | Heap | Figma
 
     
 ## Future Projects
 
 **Currently working on**
-   - Creating a new portfolio + projects that represent my current skillset      
+- Creating a new portfolio + projects that represent my current skillset      
 **Currently learning**
-   - C#, ASP.NET, & Redux
+- C#, ASP.NET, & Redux
 **Next, I want to learn**
-   - Vue.js, GraphQL, PostgreSQL
+- Vue.js, GraphQL, PostgreSQL
