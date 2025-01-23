@@ -1,9 +1,11 @@
 # Hi, I'm [Tenal](https://tenalbourchier.com/)! (she/her)
 
 
-## Software Developer 
+## Frontend Software Developer 
 
-I'm an inquisitive software developer (specializing in front-end development) located in Vaughan, Canada. I have over 4 years of comprehensive experience in cleantech startups across the full software development lifecycle - architecting, developing, testing, deploying, documenting, and maintaining complex applications. I'm proficient in the MERN stack and Agile methodologies, with a proven track record of refactoring legacy code, reducing technical debt, and implementing modern design strategies that enhance performance and quality. With a background in marketing and law, I'm adept at collaborating with cross-functional teams and effectively communicating complex concepts to both technical and non-technical stakeholders. 
+I’m an inquisitive frontend software developer based in Ontario, Canada, with comprehensive experience across the entire software development lifecycle — architecting, developing, testing, deploying, maintaining, and documenting complex applications. I specialize in the MERN stack and thrive in Agile environments, including fast-paced startup and fully remote teams where cross-functional collaboration and adaptability are key. I’m adept at translating complex prototypes into polished applications, refactoring legacy code, reducing technical debt, and implementing modern design strategies for optimal performance and quality.
+
+My path into software was unconventional, but my background in marketing and law shaped my creativity, problem-solving, and effective collaboration with diverse stakeholders. Now that I’m established in tech, I’m particularly passionate about using technology to make a meaningful impact in the world. My time at CarbonCure Technologies, a cleantech company dedicated to decarbonizing the concrete industry, reinforced my belief in leveraging software solutions to drive positive change. When I’m not coding, I’m often volunteering in the dog rescue world, traveling, gaming, hiking, horse riding, or spending time with loved ones.
 
 I'm currently searching for my next software role, let's [get in touch](https://calendly.com/tenalbourchier)! 
 
