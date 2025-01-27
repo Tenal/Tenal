@@ -4,7 +4,7 @@ I’m an inquisitive frontend software developer based in Ontario, Canada, with 
 
 My path into software was unconventional, but my background in marketing and law honed my creativity, problem-solving, and collaboration with diverse stakeholders. Now that I’m established in tech, I’m particularly passionate about using technology to make a meaningful impact in the world. My time at CarbonCure Technologies, a cleantech company dedicated to decarbonizing the concrete industry, reinforced my belief in leveraging software solutions to drive positive change. When I’m not coding, I’m often volunteering in the dog rescue world, travelling, gaming, hiking, horse riding, or spending time with loved ones.
 
-I'm currently searching for my next software role, let's [get in touch](https://calendly.com/tenalbourchier)! 
+I'm currently searching for my next software role, let's <a href="mailto:tenalbourchier.com">get in touch</a>! 
 
 <p align="center">   
    <img align="center" src="./tenal-in-antwerp.jpg" alt="Tenal standing in an empty street in Antwerp, Belgium">
